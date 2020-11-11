@@ -1,4 +1,3 @@
-
 package classstructureconstructor;
 
 public class Book { private String author;
